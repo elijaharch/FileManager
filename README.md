@@ -1,4 +1,4 @@
-# File_Manager
+# FileManager
 Принимают на вход только path:  
   'curdir':CurrentDirectory - выбрать текущую директорию  
   'newdir':CreatrDir - создать директорию  
